@@ -8,3 +8,4 @@ Learned abput rersponsive web pages and static pages and client-server rendering
 
 8 Hours Javascript coding challenge and built many projects into one single project and tackled and handled edge cases and made a local dbms to fetch content based on algorithms and data structures
 
+# Scss, less and Css variables
